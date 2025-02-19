@@ -1,0 +1,11 @@
+Le système d'exploitation est le logiciel principal d'un ordinateur car il permet aux programmes de fonctionner après que le programme d'amorçage a configuré tous les périphériques lors du démarrage de l'ordinateur2.
+
+Il offre une suite de services généraux facilitant la création de logiciels applicatifs et sert d'intermédiaire entre ces logiciels et le matériel informatique1. Un système d'exploitation apporte commodité, efficacité et capacité d'évolution, permettant d'introduire de nouvelles fonctions et du nouveau matériel sans remettre en cause les logiciels2.
+
+Il existe sur le marché des dizaines de systèmes d'exploitation différents2, très souvent livrés avec l'appareil informatique3. C'est le cas de Windows, Mac OS, Irix, Symbian OS, Unix (Berkeley, Système V…), GNU/Linux, (pour lequel il existe de nombreuses distributions) ou majoritairement Android et iOS développés respectivement par Google et Apple pour les téléphones mobiles. Les fonctionnalités offertes diffèrent d'un système à l'autre et sont typiquement en rapport avec l'exécution des programmes, l'utilisation de la mémoire centrale ou des périphériques, la manipulation des systèmes de fichiers, la communication, ou la détection et la gestion d'erreurs2.
+
+En avril 2022, Android, un système d'exploitation utilisant le noyau Linux, est le système d'exploitation le plus utilisé au monde (si l'on prend en compte l'utilisation Web). Il détient 43 % du marché mondial, suivi de Windows (30 %), d'Apple iOS (17 %), de macOS (6 %), puis de Linux (desktop) (0,98 %), qui utilise également le noyau Linux4. Ces chiffres ne tiennent pas compte les appareils intégrés ni les consoles de jeux.
+
+Pour les smartphones et autres appareils de poche, Android est en tête avec 72 % de parts de marché, et iOS d'Apple en détient 28 %5.
+Pour les ordinateurs de bureau et les ordinateurs portables, Windows est le plus utilisé (75 %), suivi de macOS d'Apple (15 %) et des systèmes d'exploitation basés sur Linux (5 %) (c'est-à-dire "Linux desktop", 2,48 %, plus ChromeOS de Google, 2,38 %, et 3,2 % aux États-Unis)6.
+En ce qui concerne les tablettes, l'iPadOS d'Apple représente 54 % et Android 46 % dans le monde entier7.
